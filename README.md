@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aleksandr Udalov
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a railway and transport tunnel design engineer and an analyst from Russia 🇷🇺 </h3>
+<h3 align="center">I am a railway and transport tunnel design engineer and an analyst from Russia </h3>
 
 <!--
 **audalov/audalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
