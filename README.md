@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is A
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandr Udalov
 =========================================================================================================================
 
-data analytics
+I'm Data analytics
 --------------
 
 I am a railway and transport tunnel design engineer and an analyst from Russia
 
-* 🌍 I'm based in Мо
+* 🌍 I'm based in Моscow
 * ✉️ You can contact me at [udalov.23@yandex.ru](mailto:udalov.23@yandex.ru)
-* 🧠 I'm learning Ya
+* 🧠 I'm learning Yandex Practicum
 
 ### Skills
 
