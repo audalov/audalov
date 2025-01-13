@@ -4,7 +4,7 @@ Hi! My name is Aleksandr Udalov [](https://user-images.githubusercontent.com/183
 I'm Data analytics
 --------------
 
-I am a railway and transport tunnel design engineer and an analyst from Russia
+I'm a railway and transport tunnel design engineer and an analyst from Russia
 
 * 🌍 I'm based in Моscow
 * ✉️ You can contact me at [udalov.23@yandex.ru](mailto:udalov.23@yandex.ru)
